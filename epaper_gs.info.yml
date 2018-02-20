@@ -1,0 +1,8 @@
+type: module
+name: Epaper Ghostscript Module
+description: 'Provides Ghostscript integration.'
+package: Epaper
+dependencies:
+  - file_mdm:filemdm
+  - file_mdm:file_mdm_exif
+  - drupal:system (>=8.3.0)
